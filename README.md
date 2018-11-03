@@ -1,24 +1,19 @@
-[================================================================================================]
-                                          The
-##    ##  ## ##  ## #####    ##    ## ###### ###### ##    #####    #####   ####   ##  ##  ##   ##
-###  ###  ## ### ## ##       ##    ##   ##     ##   ##    ##       ##  ## ##  ##  ### ##   ## ##
-## #  ##  ## ## ### ####     ##    ##   ##     ##   ##    ####     #####  ##  ##  ## ###    ##
-##    ##  ## ##  ## #####    ##### ##   ##     ##   ##### #####    ##      ####   ##  ##    ##
+---
 
-                                SKIN PACKS REPOSITORY
+# MINE LITTLE PONY
 
-[================================================================================================]
+## SKIN PACKS REPOSITORY
 
-* Show-accurate colours and updated pony naming kindly provided by the MLPVector-Club
-			https://mlpvector.club/
+---
+
+* Show-accurate colours and updated pony naming kindly provided by the MLPVector-Club https://mlpvector.club/
 
 * This pack is provided as a free-to-use, free-to-distribute fan creation.
   All properties belong to their respective owners.
-																			
-															https://minelittlepony-mod.com/
 
-[=========================================NOTES==================================================]
-[================================================================================================]
+https://minelittlepony-mod.com/
+
+## NOTES
 
 If your skin is included in this pack, it will have been tweaked slightly
 (changing the eyes and hooves) to fit in with the rest of the pack. 
@@ -33,8 +28,7 @@ If you would like to submit a skin, go to the minelittlepony.com forums
 and then head over to the "Canon Skins for the mod" bit of the forum 
 and make a new topic including a picture of the skin and the skin itself.
 
-[=====================================RESOURCE PACKS=============================================]
-[================================================================================================]
+## RESOURCE PACKS
 
 This pack serves a double purpose as an example to resourcepack authors. The skins in this pack
 are broken down into a number of smaller categories, each arranged into their own folder.
@@ -60,7 +54,7 @@ The normal (v1) format Mine Little Pony resourcepacks appears as thus:
 
 Mod assets structure:
 
-assets / minelittlepony /
+    assets / minelittlepony /
 	lang /
 		...lang
 	textures /
