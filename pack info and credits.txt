@@ -346,14 +346,14 @@ assets / minelittlepony /
 184. Nyx																												Sollace
 185. OhPonyBoy																									Sollace
 108. Orange Box																									AlphaSpaceWombat
-186. Orion																											AlphaZero
-187. Rising Phoenix																							AlphaZero
-188. Rolling Thunder																						AlphaZero
-189. Scarlet Eclipse																						AlphaZero
-190. Silver Eclipse																							AlphaZero
+186. Orion																											ArcadeZero
+187. Rising Phoenix																							ArcadeZero
+188. Rolling Thunder																						ArcadeZero
+189. Scarlet Eclipse																						ArcadeZero
+190. Silver Eclipse																							ArcadeZero
 191. Snowdrop																										Sollace
-192. Stardust																										AlphaZero
-193. Trigger Pixel																							AlphaZero
+192. Stardust																										ArcadeZero
+193. Trigger Pixel																							ArcadeZero
 181. Wildfire																										AlphaSpaceWombat
 
 [================================================================================================]
