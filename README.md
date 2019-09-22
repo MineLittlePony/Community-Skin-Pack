@@ -15,7 +15,7 @@ https://minelittlepony-mod.com/
 
 ## Notes
 
-This repository serves as a sentral archive for the numerous textures and skins created for Mine Little Pony.
+This repository serves as a central archive for the numerous textures and skins created for Mine Little Pony.
 Each skin is organised into a category (Folder) by their types of character and outfit variation in a format suitable for
 inclusion with Minecraft Resourcepacks.
 
