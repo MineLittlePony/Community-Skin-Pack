@@ -113,14 +113,15 @@ assets / minelittlepony /
 3.  Parchment_Pen				-						21
 4.  Harlequinnqueen			-						13
 5.  Harlequinqueen			-						10
-6.  dann494							-						4
-7.  Silverwhisker				-						4
-8. Sollace							-						4
-9.  P47HF1ND3R					-						3
-10. Sunny								-						2
-11. Snydertime86				-						1
-12. SF Legend						-						1
-13. iKudoShinichiHoof		-						1
+6.  Sollace							-						9
+7.  AlphaZero						-						7
+8.  dann494							-						4
+9.  Silverwhisker				-						4
+10.  P47HF1ND3R					-						3
+11. Sunny								-						2
+12. Snydertime86				-						1
+13. SF Legend						-						1
+14. iKudoShinichiHoof		-						1
 
 00. [unclaimed]					-						5
 
@@ -131,7 +132,6 @@ assets / minelittlepony /
 -----    Pony    --------------------------------------    Artist    ---------
 1.   Allie Way																									AlphaSpaceWombat
 2.   Aloe Blossom																								AlphaSpaceWombat
-3.   Ambrosia																										AlphaSpaceWombat
 4.   Amethyst Star																							AlphaSpaceWombat
 6.   Apple Cider																								Parchment_Pen
 7.   Apple Fritter																							Stephanoodle
@@ -141,12 +141,10 @@ assets / minelittlepony /
 16.  Berry Punch																								AlphaSpaceWombat
 17.  Big Macintosh																							AlphaSpaceWombat
 18.  Big Wig																										Parchment_Pen
---.  Blockwork																									???
 19.  Limestone pie																							AlphaSpaceWombat
 20.  Blueberry muffin																						AlphaSpaceWombat
 21.  Bon Bon																										Parchment_Pen
 22.  Braeburn																										AlphaSpaceWombat
-23.  Brolly																											AlphaSpaceWombat
 24.  Caramel																										Parchment_Pen
 25.  Carrot top																									Parchment_Pen
 27.  Cheerilee																									AlphaSpaceWombat
@@ -219,7 +217,6 @@ assets / minelittlepony /
 104. Noteworthy																									AlphaSpaceWombat
 106. Nurse Redheart																							AlphaSpaceWombat
 107. Octavia Melody																							AlphaSpaceWombat
-108. Orange Box																									AlphaSpaceWombat
 109. Orchid dew																									AlphaSpaceWombat
 110. Photo Finish																								AlphaSpaceWombat
 111. Picture perfect																						Harlequinnqueen
@@ -269,7 +266,6 @@ assets / minelittlepony /
 177. Velvet Hooves																							AlphaSpaceWombat
 178. Vinyl Scratch																							Parchment_Pen
 180. Wild Flower																								Parchment_Pen
-181. Wildfire																										AlphaSpaceWombat
 182. Zecora:																										AlphaSpaceWombat
 
 														Main Cast
@@ -339,6 +335,26 @@ assets / minelittlepony /
 88a. Mare Do Well (Earth)																				Silverwhisker
 88b. Mare Do Well (Unicorn)																			Silverwhisker
 88c. Mare Do Well (Pegasus)																			Silverwhisker
+
+														Fandom
+-----    Pony    --------------------------------------    Artist    ---------
+3.   Ambrosia																										AlphaSpaceWombat
+--.  Blockwork																									???
+23.  Brolly																											AlphaSpaceWombat
+183. Echo																												Sollace
+184. Little Pip																									Sollace
+184. Nyx																												Sollace
+185. OhPonyBoy																									Sollace
+108. Orange Box																									AlphaSpaceWombat
+186. Orion																											AlphaZero
+187. Rising Phoenix																							AlphaZero
+188. Rolling Thunder																						AlphaZero
+189. Scarlet Eclipse																						AlphaZero
+190. Silver Eclipse																							AlphaZero
+191. Snowdrop																										Sollace
+192. Stardust																										AlphaZero
+193. Trigger Pixel																							AlphaZero
+181. Wildfire																										AlphaSpaceWombat
 
 [================================================================================================]
 
