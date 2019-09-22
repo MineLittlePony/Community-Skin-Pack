@@ -1,18 +1,15 @@
 {
-  // Removes all of the previous resourcepack's ponies
   "override": false,
-  // A list of sub-directories to include
-  // Pony textures are loaded according to subpath/bgponies.json
-  "imports": [
-    "apples", "fandom", "foals", "guards", "secondary_characters"
-  ],
-  // A list of all the pony names without the extension
-  // e.g. textures/entity/pony/bgpony_12.png
   "ponies": [
+		"ambrosia",
+		"blockwork",
+		"brolly",
     "echo",
     "little_pip",
     "nyx",
     "ohponyboy",
+		"orange_box",
     "snowdrop"
+		"wildfire"
   ]
 }
