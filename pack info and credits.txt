@@ -115,13 +115,14 @@ assets / minelittlepony /
 5.  Harlequinqueen			-						10
 6.  Sollace							-						9
 7.  AlphaZero						-						7
-8.  dann494							-						4
-9.  Silverwhisker				-						4
-10.  P47HF1ND3R					-						3
-11. Sunny								-						2
-12. Snydertime86				-						1
-13. SF Legend						-						1
-14. iKudoShinichiHoof		-						1
+8.  KarinaAE123					-						7
+9.  dann494							-						4
+10. Silverwhisker				-						4
+11. P47HF1ND3R					-						3
+12. Sunny								-						2
+13. Snydertime86				-						1
+14. SF Legend						-						1
+15. iKudoShinichiHoof		-						1
 
 00. [unclaimed]					-						5
 
@@ -267,6 +268,10 @@ assets / minelittlepony /
 178. Vinyl Scratch																							Parchment_Pen
 180. Wild Flower																								Parchment_Pen
 182. Zecora:																										AlphaSpaceWombat
+184. Gabby																											KarinaAE123
+186. Bright Mac																									KarinaAE123
+187. Moondancer																									KarinaAE123
+189. Queen Nova																									KarinaAE123
 
 														Main Cast
 -----    Pony    --------------------------------------    Artist    ---------
@@ -283,6 +288,7 @@ assets / minelittlepony /
 145. Shining Armour																							Harlequinnqueen
 170. Princess Twilight Sparkle																	Stephanoodle
 173. Twilight Sparkle																						Stephanoodle
+185. Starlight Glimmer																					KarinaAE123
 
 														Alternative Outfits
 -----    Pony    --------------------------------------    Artist    ---------
@@ -317,7 +323,6 @@ assets / minelittlepony /
 171. Twilight Sparkle (gala dress)															AlphaSpaceWombat
 172. Twilight Sparkle (princess coronation)											Stephanoodle
 179. Wild Flower (WA outift)																		Parchment_Pen
-180. Starlight Glimmer (Our Town)																???
 
 														Villains
 -----    Pony    --------------------------------------    Artist    ---------
@@ -327,6 +332,8 @@ assets / minelittlepony /
 79.  King Sombra																								AlphaSpaceWombat
 102. Nightmare moon																							AlphaSpaceWombat
 124. Queen Chrysalis																						Stephanoodle
+180. Starlight Glimmer (Our Town)																???
+183. Day Breaker																								KarinaAE123
 
 														Special Event
 -----    Pony    --------------------------------------    Artist    ---------
@@ -355,6 +362,7 @@ assets / minelittlepony /
 192. Stardust																										ArcadeZero
 193. Trigger Pixel																							ArcadeZero
 181. Wildfire																										AlphaSpaceWombat
+188. Button Mash (Jan)																					KarinaAE123
 
 [================================================================================================]
 
