@@ -7,7 +7,7 @@
 
                                    COMMUNITY SKIN PACK
 
-                                      Version 1.7
+                                      Version 1.8
 
 [================================================================================================]
 
@@ -113,7 +113,7 @@ assets / minelittlepony /
 3.  Parchment_Pen				-						21
 4.  Harlequinnqueen			-						13
 5.  Harlequinqueen			-						10
-6.  Sollace							-						9
+6.  Sollace							-						10
 7.  AlphaZero						-						7
 8.  KarinaAE123					-						7
 9.  dann494							-						4
@@ -127,7 +127,7 @@ assets / minelittlepony /
 00. [unclaimed]					-						5
 
 
-                          CONTRIBUTIONS BY PONY (185)
+                          CONTRIBUTIONS BY PONY (186)
 
 														Background Ponies
 -----    Pony    --------------------------------------    Artist    ---------
@@ -323,6 +323,7 @@ assets / minelittlepony /
 171. Twilight Sparkle (gala dress)															AlphaSpaceWombat
 172. Twilight Sparkle (princess coronation)											Stephanoodle
 179. Wild Flower (WA outift)																		Parchment_Pen
+194. Cozy Glow																									Sollace
 
 														Villains
 -----    Pony    --------------------------------------    Artist    ---------
