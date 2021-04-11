@@ -12,18 +12,18 @@
 [================================================================================================]
 
 * Show-accurate colours and updated pony naming kindly provided by the MLPVector-Club
-			https://mlpvector.club/
+                                 https://mlpvector.club/
 
 * This pack is provided as a free-to-use, free-to-distribute fan creation.
   All properties belong to their respective owners.
-																			
-															https://minelittlepony-mod.com/
+
+                             https://minelittlepony-mod.com/
 
 [=========================================NOTES==================================================]
 [================================================================================================]
 
 If your skin is included in this pack, it will have been tweaked slightly
-(changing the eyes and hooves) to fit in with the rest of the pack. 
+(changing the eyes and hooves) to fit in with the rest of the pack.
 It is encouraged that contributors try to keep it as consistent as possible.
 
 The two eyestyles here are:
@@ -32,7 +32,7 @@ Adults - Alpha's Style
 Foals  - Steph's Style
 
 If you would like to submit a skin, go to the minelittlepony.com forums
-and then head over to the "Canon Skins for the mod" bit of the forum 
+and then head over to the "Canon Skins for the mod" bit of the forum
 and make a new topic including a picture of the skin and the skin itself.
 
 [=====================================RESOURCE PACKS=============================================]
@@ -41,16 +41,16 @@ and make a new topic including a picture of the skin and the skin itself.
 This pack serves a double purpose as an example to resourcepack authors. The skins in this pack
 are broken down into a number of smaller categories, each arranged into their own folder.
 
-Background Ponies 	- are the textures already included and used throughout the mod by default
-Main Cast						- primary and supporting characters from the show
-Villains						- evil
-Special Event				- Once-off, single event skins from the show and related events
-Minecraft						- Minecraft mobs and entities (humanoid) created specifically for
-											Mine Little Pony
+Background Ponies     - are the textures already included and used throughout the mod by default
+Main Cast             - primary and supporting characters from the show
+Villains              - evil
+Special Event         - Once-off, single event skins from the show and related events
+Minecraft             - Minecraft mobs and entities (humanoid) created specifically for
+                        Mine Little Pony
 
-Alternative Outfits - Any additional costumes and get-ups of skins included in the other
-											categories. The 'Other' skins
-											
+Alternative Outfits   - Any additional costumes and get-ups of skins included in the other
+                        categories. The 'Other' skins
+
 Each category on its own is designed to work as a drop-in replacement for the background ponies
 already included with the mod. They have their own bgponies.json listing all of the ponies
 included.
@@ -63,44 +63,44 @@ The normal (v1) format Mine Little Pony resourcepacks appears as thus:
 Mod assets structure:
 
 assets / minelittlepony /
-	lang /
-		...lang
-	textures /
-		cubemap /																- Panoramas
-			quillsandsofas_<n>.png
-			sugarcubecorner_<n>.png
-			sweetappleacres_<n>.png
-		entity /
-			enderman / 														- Enderstallion textures
-			illager /															- Illagerpony and Vex texture	
-			
-			pony /														<- Background ponies go here
-				bgponies.json
-				<pony textures>
-				
-			skeleton /														- Skeleton/Wither Skeleton/Stray textures
-			villager /														- Villager textures
-				...
-				silly_pony.png											- Shhhhh a secret
-				tiny_silly_pony.png									- ditto
-			zombie /															- Zombie/Zombie Pigman/Husk textures
-			zombie_villager /											- Zombie Villager textures
-			alex_pony.png													- Used for the slim arms models.
-																								See "Background Ponies/Night Guard (Bat)"
-			seapony.png														- Guardian/Elder Guardian texture
-			steve_pony.png												- used for the fat arms model.
-																								See "Background Ponies/Daring Do"
-			witch_pony.png												- The witch texture. (hat comes from vanilla)
-																								See "Background Ponies/Zecora"
-		mob /
-			noskin.png														- Blank (steve) skin for the skins gui
-			noskin_seapony.png										- Seapony variant
-		models /
-			muffin.png														- The muffin hat texture
-			stetson.png														- Applejack's hat texture
-			armor /																- Vanilla and mod armour textures.
-				<armour-type>_layer_inner_pony.png
-				<armour-type>_layer_outer_pony.png
+    lang /
+        ...lang
+    textures /
+        cubemap /                                 - Panoramas
+            quillsandsofas_<n>.png
+            sugarcubecorner_<n>.png
+            sweetappleacres_<n>.png
+        entity /
+            enderman /                            - Enderstallion textures
+            illager /                             - Illagerpony and Vex texture
+
+            pony /                                <- Background ponies go here
+                bgponies.json
+                <pony textures>
+
+            skeleton /                            - Skeleton/Wither Skeleton/Stray textures
+            villager /                            - Villager textures
+                ...
+                silly_pony.png                    - Shhhhh a secret
+                tiny_silly_pony.png               - ditto
+            zombie /                              - Zombie/Zombie Pigman/Husk textures
+            zombie_villager /                     - Zombie Villager textures
+            alex_pony.png                         - Used for the slim arms models.
+                                                    See "Background Ponies/Night Guard (Bat)"
+            seapony.png                           - Guardian/Elder Guardian texture
+            steve_pony.png                        - used for the fat arms model.
+                                                    See "Background Ponies/Daring Do"
+            witch_pony.png                        - The witch texture. (hat comes from vanilla)
+                                                    See "Background Ponies/Zecora"
+        mob /
+            noskin.png                            - Blank (steve) skin for the skins gui
+            noskin_seapony.png                    - Seapony variant
+        models /
+            muffin.png                            - The muffin hat texture
+            stetson.png                           - Applejack's hat texture
+            armor /                               - Vanilla and mod armour textures.
+                <armour-type>_layer_inner_pony.png
+                <armour-type>_layer_outer_pony.png
 
 [=========================================CREDITS================================================]
 [================================================================================================]
@@ -108,262 +108,262 @@ assets / minelittlepony /
           GLORY TO THE CONTRIBUTORS
 
 -----   Artist  -------------  Ponies Contributed  -----
-1.  AlphaSpaceWombat		-						99
-2.  Stephanoodle				-						27
-3.  Parchment_Pen				-						21
-4.  Harlequinnqueen			-						13
-5.  Harlequinqueen			-						10
-6.  Sollace							-						10
-7.  AlphaZero						-						7
-8.  KarinaAE123					-						7
-9.  dann494							-						4
-10. Silverwhisker				-						4
-11. P47HF1ND3R					-						3
-12. Sunny								-						2
-13. Snydertime86				-						1
-14. SF Legend						-						1
-15. iKudoShinichiHoof		-						1
+1.  AlphaSpaceWombat        -         99
+2.  Stephanoodle            -         27
+3.  Parchment_Pen           -         21
+4.  Harlequinnqueen         -         13
+5.  Harlequinqueen          -         10
+6.  Sollace                 -         10
+7.  AlphaZero               -          7
+8.  KarinaAE123             -          7
+9.  dann494                 -          4
+10. Silverwhisker           -          4
+11. P47HF1ND3R              -          3
+12. Sunny                   -          2
+13. Snydertime86            -          1
+14. SF Legend               -          1
+15. iKudoShinichiHoof       -          1
 
-00. [unclaimed]					-						5
+00. [unclaimed]             -          5
 
 
-                          CONTRIBUTIONS BY PONY (186)
+                     CONTRIBUTIONS BY PONY (186)
 
-														Background Ponies
+                          Background Ponies
 -----    Pony    --------------------------------------    Artist    ---------
-1.   Allie Way																									AlphaSpaceWombat
-2.   Aloe Blossom																								AlphaSpaceWombat
-4.   Amethyst Star																							AlphaSpaceWombat
-6.   Apple Cider																								Parchment_Pen
-7.   Apple Fritter																							Stephanoodle
-8.   Apple Strudel																							Harlequinqueen
-14.  Babs Seed																									AlphaSpaceWombat
-15.  Banana Fluff																								AlphaSpaceWombat
-16.  Berry Punch																								AlphaSpaceWombat
-17.  Big Macintosh																							AlphaSpaceWombat
-18.  Big Wig																										Parchment_Pen
-19.  Limestone pie																							AlphaSpaceWombat
-20.  Blueberry muffin																						AlphaSpaceWombat
-21.  Bon Bon																										Parchment_Pen
-22.  Braeburn																										AlphaSpaceWombat
-24.  Caramel																										Parchment_Pen
-25.  Carrot top																									Parchment_Pen
-27.  Cheerilee																									AlphaSpaceWombat
-28.  Chelsea Porcelain																					Parchment_Pen
-30.  Cherry Berry																								Parchment_Pen
-31.  Cherry Ice																									Parchment_Pen
-29.  Cherry Jubilee																							Parchment_Pen
-32.  Chocolate Sun																							Parchment_Pen
-33.  Cloud Kicker																								Parchment_Pen
-185. Cloud Chaser																								???
-34.  Igneous Rock																								Parchment_Pen
-35.  Colgate																										AlphaSpaceWombat
-37.  Cotton Pie Joe																							AlphaSpaceWombat
-38.  Cranky Doodle donkey (all three)														AlphaSpaceWombat
-40.  Daisy																											AlphaSpaceWombat
-41.  Daring Do																									Stephanoodle
-42.  Derpy Hooves																								AlphaSpaceWombat
-44.  Diamond Tiara																							Stephanoodle
-45.  Dinky Doo																									Parchment_Pen
-47.  Dizzy Twister																							AlphaSpaceWombat
-48.  Doctor Hooves																							Parchment_Pen
-49.  Doughnut Joe																								AlphaSpaceWombat
-50.  Endless Clouds																							AlphaSpaceWombat
-51.  Fancy Pants																								Snydertime86
-52.  Featherweight																							AlphaSpaceWombat
-53.  Fiddlesticks																								AlphaSpaceWombat
-54.  Film Reel																									AlphaSpaceWombat
-55.  Filthy Rich																								AlphaSpaceWombat
-56.  Flam																												AlphaSpaceWombat
-57b. Fleetfoot (edited from the wonderbolt suit)								Sollace
-58.  Fleur de Lis																								Parchment_Pen
-59.  Flim																												AlphaSpaceWombat
-60.  Flitter																										Stephanoodle
-63.  Fruitbasket																								AlphaSpaceWombat
-65.  Giselle																										Harlequinqueen
-66.  Gizmo																											Harlequinqueen
-67.  Golden Harvest																							AlphaSpaceWombat
-68.  Granny Smith																								AlphaSpaceWombat
-184. Hairy Tipper																								???
-71.  Happy Trails																								Harlequinqueen
-72.  Ms Harshwhinny																							Stephanoodle
-73.  High Style																									AlphaSpaceWombat
-74.  Holly Dash																									Stephanoodle
-75.  Horte Cuisine																							AlphaSpaceWombat
-76.  Marble Pie																									AlphaSpaceWombat
-77.  Jangles																										Harlequinqueen
-78.  Junebug																										AlphaSpaceWombat
-80.  Lemon Hearts																								AlphaSpaceWombat
-81.  Lightning Bolt																							AlphaSpaceWombat
-82.  Lightning Dust																							AlphaSpaceWombat
-83.  Lily																												SF Legend
-84.  Lotus Blossom																							AlphaSpaceWombat
-86.  Lyra Heartstrings																					Parchment_Pen
-89.  Masquerade																									Harlequinnqueen
-90.  Math teacher																								Harlequinnqueen
-91.  Mayor mare																									AlphaSpaceWombat
-92.  Merry May																									Stephanoodle
-93.  Millie																											Stephanoodle
-94.  Mjîlna																											Stephanoodle
-95.  Morton Saltworthy																					AlphaSpaceWombat
-96.  Carrot Cake																								AlphaSpaceWombat
-149. Mr Smarty Pants																						iKudoShinichiHoof
-97.  Mr Waddle																									Harlequinnqueen
-98.  Cup Cake																										AlphaSpaceWombat
-99.  Ms Peachbottom																							AlphaSpaceWombat
-100. Mulia Mild																									Silverwhisker
-101. Neon Lights																								Stephanoodle
-39.  Night Light																								Stephanoodle
-103. North Pole																									AlphaSpaceWombat
-104. Noteworthy																									AlphaSpaceWombat
-106. Nurse Redheart																							AlphaSpaceWombat
-107. Octavia Melody																							AlphaSpaceWombat
-109. Orchid dew																									AlphaSpaceWombat
-110. Photo Finish																								AlphaSpaceWombat
-111. Picture perfect																						Harlequinnqueen
-115. Pipsqueak																									AlphaSpaceWombat
-116. Post Haste																									Harlequinnqueen
-117. Pretty vision																							AlphaSpaceWombat
-118. Prince blueblood																						AlphaSpaceWombat
-129. Raindrops																									AlphaSpaceWombat
-132. Red gala																										AlphaSpaceWombat
-133. Roseluck																										AlphaSpaceWombat
-134. Roy G Bow																									AlphaSpaceWombat
-135. All royal guards																						AlphaSpaceWombat
-183. Ruby Pinch																									???
-136. Salty																											AlphaSpaceWombat
-137. Sapphire Shores																						Harlequinnqueen
-139. Scootaloo																									Stephanoodle
-140. Screw Loose																								Harlequinnqueen
-141. Screwball																									Harlequinnqueen
-142. Sea Swirl																									AlphaSpaceWombat
-143. Sharpener																									Harlequinnqueen
-146. Silver spoon																								Stephanoodle
-147. Silver String																							Harlequinnqueen
-148. Silverspeed	(recolour from the lyra skin)									Parchment_Pen
-150. Snips and Snails																						AlphaSpaceWombat
-151. Bulk Biceps																								AlphaSpaceWombat
-153. Soarin																											AlphaSpaceWombat
-154. Soigne Folio																								Sunny
-156. Spitfire																										Harlequinnqueen
-158. Stella																											Sunny
-159. Cloudy Quartz																							AlphaSpaceWombat
-???. Sunstreak																									AlphaSpaceWombat/Sollace
-160. Sunstreak (wonderbolt suit)																AlphaSpaceWombat
-162. Sweetie Belle																							Stephanoodle
-163. Symphony																										Harlequinnqueen
-164. Tailor the Tailor																					AlphaSpaceWombat
-165. The Dude																										AlphaSpaceWombat
-166. Thunderlane																								Stephanoodle
-167. Trixie Lulamoon																						AlphaSpaceWombat
-168. other Trixie outfits																				AlphaSpaceWombat
-169. Twilight Sky																								Stephanoodle
-157. Twilight Velvet																						Stephanoodle
-174. Twist																											Stephanoodle
-175. Under D Weather																						AlphaSpaceWombat
-176. Night Guard (Unicorn)																			dann494
----. Night Guard (Pegasus)																			dann494
----. Night Guard (Bat)																					Sollace
-177. Velvet Hooves																							AlphaSpaceWombat
-178. Vinyl Scratch																							Parchment_Pen
-180. Wild Flower																								Parchment_Pen
-182. Zecora:																										AlphaSpaceWombat
-184. Gabby																											KarinaAE123
-186. Bright Mac																									KarinaAE123
-187. Moondancer																									KarinaAE123
-189. Queen Nova																									KarinaAE123
+1.   Allie Way                                         AlphaSpaceWombat
+2.   Aloe Blossom                                      AlphaSpaceWombat
+4.   Amethyst Star                                     AlphaSpaceWombat
+6.   Apple Cider                                       Parchment_Pen
+7.   Apple Fritter                                     Stephanoodle
+8.   Apple Strudel                                     Harlequinqueen
+14.  Babs Seed                                         AlphaSpaceWombat
+15.  Banana Fluff                                      AlphaSpaceWombat
+16.  Berry Punch                                       AlphaSpaceWombat
+17.  Big Macintosh                                     AlphaSpaceWombat
+18.  Big Wig                                           Parchment_Pen
+19.  Limestone pie                                     AlphaSpaceWombat
+20.  Blueberry muffin                                  AlphaSpaceWombat
+21.  Bon Bon                                           Parchment_Pen
+22.  Braeburn                                          AlphaSpaceWombat
+24.  Caramel                                           Parchment_Pen
+25.  Carrot top                                        Parchment_Pen
+27.  Cheerilee                                         AlphaSpaceWombat
+28.  Chelsea Porcelain                                 Parchment_Pen
+30.  Cherry Berry                                      Parchment_Pen
+31.  Cherry Ice                                        Parchment_Pen
+29.  Cherry Jubilee                                    Parchment_Pen
+32.  Chocolate Sun                                     Parchment_Pen
+33.  Cloud Kicker                                      Parchment_Pen
+185. Cloud Chaser                                      ???
+34.  Igneous Rock                                      Parchment_Pen
+35.  Colgate                                           AlphaSpaceWombat
+37.  Cotton Pie Joe                                    AlphaSpaceWombat
+38.  Cranky Doodle donkey (all three)                  AlphaSpaceWombat
+40.  Daisy                                             AlphaSpaceWombat
+41.  Daring Do                                         Stephanoodle
+42.  Derpy Hooves                                      AlphaSpaceWombat
+44.  Diamond Tiara                                     Stephanoodle
+45.  Dinky Doo                                         Parchment_Pen
+47.  Dizzy Twister                                     AlphaSpaceWombat
+48.  Doctor Hooves                                     Parchment_Pen
+49.  Doughnut Joe                                      AlphaSpaceWombat
+50.  Endless Clouds                                    AlphaSpaceWombat
+51.  Fancy Pants                                       Snydertime86
+52.  Featherweight                                     AlphaSpaceWombat
+53.  Fiddlesticks                                      AlphaSpaceWombat
+54.  Film Reel                                         AlphaSpaceWombat
+55.  Filthy Rich                                       AlphaSpaceWombat
+56.  Flam                                              AlphaSpaceWombat
+57b. Fleetfoot (edited from the wonderbolt suit)       Sollace
+58.  Fleur de Lis                                      Parchment_Pen
+59.  Flim                                              AlphaSpaceWombat
+60.  Flitter                                           Stephanoodle
+63.  Fruitbasket                                       AlphaSpaceWombat
+65.  Giselle                                           Harlequinqueen
+66.  Gizmo                                             Harlequinqueen
+67.  Golden Harvest                                    AlphaSpaceWombat
+68.  Granny Smith                                      AlphaSpaceWombat
+184. Hairy Tipper                                      ???
+71.  Happy Trails                                      Harlequinqueen
+72.  Ms Harshwhinny                                    Stephanoodle
+73.  High Style                                        AlphaSpaceWombat
+74.  Holly Dash                                        Stephanoodle
+75.  Horte Cuisine                                     AlphaSpaceWombat
+76.  Marble Pie                                        AlphaSpaceWombat
+77.  Jangles                                           Harlequinqueen
+78.  Junebug                                           AlphaSpaceWombat
+80.  Lemon Hearts                                      AlphaSpaceWombat
+81.  Lightning Bolt                                    AlphaSpaceWombat
+82.  Lightning Dust                                    AlphaSpaceWombat
+83.  Lily                                              SF Legend
+84.  Lotus Blossom                                     AlphaSpaceWombat
+86.  Lyra Heartstrings                                 Parchment_Pen
+89.  Masquerade                                        Harlequinnqueen
+90.  Math teacher                                      Harlequinnqueen
+91.  Mayor mare                                        AlphaSpaceWombat
+92.  Merry May                                         Stephanoodle
+93.  Millie                                            Stephanoodle
+94.  Mjîlna                                            Stephanoodle
+95.  Morton Saltworthy                                 AlphaSpaceWombat
+96.  Carrot Cake                                       AlphaSpaceWombat
+149. Mr Smarty Pants                                   iKudoShinichiHoof
+97.  Mr Waddle                                         Harlequinnqueen
+98.  Cup Cake                                          AlphaSpaceWombat
+99.  Ms Peachbottom                                    AlphaSpaceWombat
+100. Mulia Mild                                        Silverwhisker
+101. Neon Lights                                       Stephanoodle
+39.  Night Light                                       Stephanoodle
+103. North Pole                                        AlphaSpaceWombat
+104. Noteworthy                                        AlphaSpaceWombat
+106. Nurse Redheart                                    AlphaSpaceWombat
+107. Octavia Melody                                    AlphaSpaceWombat
+109. Orchid dew                                        AlphaSpaceWombat
+110. Photo Finish                                      AlphaSpaceWombat
+111. Picture perfect                                   Harlequinnqueen
+115. Pipsqueak                                         AlphaSpaceWombat
+116. Post Haste                                        Harlequinnqueen
+117. Pretty vision                                     AlphaSpaceWombat
+118. Prince blueblood                                  AlphaSpaceWombat
+129. Raindrops                                         AlphaSpaceWombat
+132. Red gala                                          AlphaSpaceWombat
+133. Roseluck                                          AlphaSpaceWombat
+134. Roy G Bow                                         AlphaSpaceWombat
+135. All royal guards                                  AlphaSpaceWombat
+183. Ruby Pinch                                        ???
+136. Salty                                             AlphaSpaceWombat
+137. Sapphire Shores                                   Harlequinnqueen
+139. Scootaloo                                         Stephanoodle
+140. Screw Loose                                       Harlequinnqueen
+141. Screwball                                         Harlequinnqueen
+142. Sea Swirl                                         AlphaSpaceWombat
+143. Sharpener                                         Harlequinnqueen
+146. Silver spoon                                      Stephanoodle
+147. Silver String                                     Harlequinnqueen
+148. Silverspeed    (recolour from the lyra skin)      Parchment_Pen
+150. Snips and Snails                                  AlphaSpaceWombat
+151. Bulk Biceps                                       AlphaSpaceWombat
+153. Soarin                                            AlphaSpaceWombat
+154. Soigne Folio                                      Sunny
+156. Spitfire                                          Harlequinnqueen
+158. Stella                                            Sunny
+159. Cloudy Quartz                                     AlphaSpaceWombat
+???. Sunstreak                                         AlphaSpaceWombat/Sollace
+160. Sunstreak (wonderbolt suit)                       AlphaSpaceWombat
+162. Sweetie Belle                                     Stephanoodle
+163. Symphony                                          Harlequinnqueen
+164. Tailor the Tailor                                 AlphaSpaceWombat
+165. The Dude                                          AlphaSpaceWombat
+166. Thunderlane                                       Stephanoodle
+167. Trixie Lulamoon                                   AlphaSpaceWombat
+168. other Trixie outfits                              AlphaSpaceWombat
+169. Twilight Sky                                      Stephanoodle
+157. Twilight Velvet                                   Stephanoodle
+174. Twist                                             Stephanoodle
+175. Under D Weather                                   AlphaSpaceWombat
+176. Night Guard (Unicorn)                             dann494
+---. Night Guard (Pegasus)                             dann494
+---. Night Guard (Bat)                                 Sollace
+177. Velvet Hooves                                     AlphaSpaceWombat
+178. Vinyl Scratch                                     Parchment_Pen
+180. Wild Flower                                       Parchment_Pen
+182. Zecora:                                           AlphaSpaceWombat
+184. Gabby                                             KarinaAE123
+186. Bright Mac                                        KarinaAE123
+187. Moondancer                                        KarinaAE123
+189. Queen Nova                                        KarinaAE123
 
-														Main Cast
+                             Main Cast
 -----    Pony    --------------------------------------    Artist    ---------
-9.   Apple Bloom																								AlphaSpaceWombat
-11.  Applejack																									AlphaSpaceWombat
-61.  Fluttershy																									AlphaSpaceWombat
-64.  Gilda Griffon																							Parchment_Pen
-112. Pinke pie																									AlphaSpaceWombat
-119. Princess Cadence																						AlphaSpaceWombat
-121. Princess Celestia																					AlphaSpaceWombat
-122. Princess Luna																							AlphaSpaceWombat
-125. Rainbow Dash																								AlphaSpaceWombat
-130. Rarity																											AlphaSpaceWombat
-145. Shining Armour																							Harlequinnqueen
-170. Princess Twilight Sparkle																	Stephanoodle
-173. Twilight Sparkle																						Stephanoodle
-185. Starlight Glimmer																					KarinaAE123
+9.   Apple Bloom                                       AlphaSpaceWombat
+11.  Applejack                                         AlphaSpaceWombat
+61.  Fluttershy                                        AlphaSpaceWombat
+64.  Gilda Griffon                                     Parchment_Pen
+112. Pinke pie                                         AlphaSpaceWombat
+119. Princess Cadence                                  AlphaSpaceWombat
+121. Princess Celestia                                 AlphaSpaceWombat
+122. Princess Luna                                     AlphaSpaceWombat
+125. Rainbow Dash                                      AlphaSpaceWombat
+130. Rarity                                            AlphaSpaceWombat
+145. Shining Armour                                    Harlequinnqueen
+170. Princess Twilight Sparkle                         Stephanoodle
+173. Twilight Sparkle                                  Stephanoodle
+185. Starlight Glimmer                                 KarinaAE123
 
-														Alternative Outfits
+                          Alternative Outfits
 -----    Pony    --------------------------------------    Artist    ---------
-10.  Applejack (gala dress)																			AlphaSpaceWombat
-11.  Applejack (with hat)																				AlphaSpaceWombat
-12.  Applejack Winter Wrap up																		AlphaSpaceWombat
-5.   Apple Bloom (CMC Rock outfit)															P47HF1ND3R
---   Cranky Doodle Donkey (bald)																???
---   Cranky Doodle Donkey (dazzling toupé)											???
-38b. Cranky Doodle Donkey (magnet toupé)												Sollace
-36.  Royal Guard Commanders																			AlphaSpaceWombat
-43.  Derpy Hooves Winter wrap up																AlphaSpaceWombat
-57.  Fleetfoot (Wonderbolt outfit)															AlphaSpaceWombat
-62.  All other fluttershy outfits																AlphaSpaceWombat
-69.  Granny Smith (Young with bonnet)														Harlequinqueen
-70.  Granny Smith (Young)																				Harlequinqueen
-105. Noteworthy Winter wrap up																	AlphaSpaceWombat
-113. Pinkie pie gala dress																			Harlequinqueen
-114. Other pinkie outfits																				AlphaSpaceWombat
-120. Princess Cadence wedding dress															Harlequinqueen
-123. Princess Luna (S1)																					AlphaSpaceWombat
-126. Rainbow Dash (Gala Dress)																	AlphaSpaceWombat
-127. Rainbow Dash (Cadet lead outfit)														Stephanoodle
-127. Rainbow Dash (Cadet wing outfit)														Stephanoodle
-128. Rainbow Dash (Winter Wrap Up)															AlphaSpaceWombat
-131. other Rarity outfits																				AlphaSpaceWombat
-138. Scootaloo (CMC Rock outfit)																P47HF1ND3R
-144. Shining Armour (and broken horn version)										Stephanoodle
-152. Soarin (Wonderbolt outfit)																	Stephanoodle
-155. Spitfire (Wonderbolt outfit)																Stephanoodle
-161. Sweetie Belle (CMC rock outfit)														P47HF1ND3R
-171. Twilight Sparkle (gala dress)															AlphaSpaceWombat
-172. Twilight Sparkle (princess coronation)											Stephanoodle
-179. Wild Flower (WA outift)																		Parchment_Pen
-194. Cozy Glow																									Sollace
+10.  Applejack (gala dress)                            AlphaSpaceWombat
+11.  Applejack (with hat)                              AlphaSpaceWombat
+12.  Applejack Winter Wrap up                          AlphaSpaceWombat
+5.   Apple Bloom (CMC Rock outfit)                     P47HF1ND3R
+--   Cranky Doodle Donkey (bald)                       ???
+--   Cranky Doodle Donkey (dazzling toupé)             ???
+38b. Cranky Doodle Donkey (magnet toupé)               Sollace
+36.  Royal Guard Commanders                            AlphaSpaceWombat
+43.  Derpy Hooves Winter wrap up                       AlphaSpaceWombat
+57.  Fleetfoot (Wonderbolt outfit)                     AlphaSpaceWombat
+62.  All other fluttershy outfits                      AlphaSpaceWombat
+69.  Granny Smith (Young with bonnet)                  Harlequinqueen
+70.  Granny Smith (Young)                              Harlequinqueen
+105. Noteworthy Winter wrap up                         AlphaSpaceWombat
+113. Pinkie pie gala dress                             Harlequinqueen
+114. Other pinkie outfits                              AlphaSpaceWombat
+120. Princess Cadence wedding dress                    Harlequinqueen
+123. Princess Luna (S1)                                AlphaSpaceWombat
+126. Rainbow Dash (Gala Dress)                         AlphaSpaceWombat
+127. Rainbow Dash (Cadet lead outfit)                  Stephanoodle
+127. Rainbow Dash (Cadet wing outfit)                  Stephanoodle
+128. Rainbow Dash (Winter Wrap Up)                     AlphaSpaceWombat
+131. other Rarity outfits                              AlphaSpaceWombat
+138. Scootaloo (CMC Rock outfit)                       P47HF1ND3R
+144. Shining Armour (and broken horn version)          Stephanoodle
+152. Soarin (Wonderbolt outfit)                        Stephanoodle
+155. Spitfire (Wonderbolt outfit)                      Stephanoodle
+161. Sweetie Belle (CMC rock outfit)                   P47HF1ND3R
+171. Twilight Sparkle (gala dress)                     AlphaSpaceWombat
+172. Twilight Sparkle (princess coronation)            Stephanoodle
+179. Wild Flower (WA outift)                           Parchment_Pen
+194. Cozy Glow                                         Sollace
 
-														Villains
+                               Villains
 -----    Pony    --------------------------------------    Artist    ---------
-13.  Armoured Changeling																				dann494
-26.  Changeling																									Harlequinqueen
-46.  Discord																										Stephanoodle
-79.  King Sombra																								AlphaSpaceWombat
-102. Nightmare moon																							AlphaSpaceWombat
-124. Queen Chrysalis																						Stephanoodle
-180. Starlight Glimmer (Our Town)																???
-183. Day Breaker																								KarinaAE123
+13.  Armoured Changeling                               dann494
+26.  Changeling                                        Harlequinqueen
+46.  Discord                                           Stephanoodle
+79.  King Sombra                                       AlphaSpaceWombat
+102. Nightmare moon                                    AlphaSpaceWombat
+124. Queen Chrysalis                                   Stephanoodle
+180. Starlight Glimmer (Our Town)                      ???
+183. Day Breaker                                       KarinaAE123
 
-														Special Event
+                              Special Event
 -----    Pony    --------------------------------------    Artist    ---------
-85.  Lunar Guard																								AlphaSpaceWombat
-87.  Mare Do Well (Alicorn)																			dann494
-88a. Mare Do Well (Earth)																				Silverwhisker
-88b. Mare Do Well (Unicorn)																			Silverwhisker
-88c. Mare Do Well (Pegasus)																			Silverwhisker
+85.  Lunar Guard                                       AlphaSpaceWombat
+87.  Mare Do Well (Alicorn)                            dann494
+88a. Mare Do Well (Earth)                              Silverwhisker
+88b. Mare Do Well (Unicorn)                            Silverwhisker
+88c. Mare Do Well (Pegasus)                            Silverwhisker
 
-														Fandom
+                               Fandom
 -----    Pony    --------------------------------------    Artist    ---------
-3.   Ambrosia																										AlphaSpaceWombat
---.  Blockwork																									???
-23.  Brolly																											AlphaSpaceWombat
-183. Echo																												Sollace
-184. Little Pip																									Sollace
-184. Nyx																												Sollace
-185. OhPonyBoy																									Sollace
-108. Orange Box																									AlphaSpaceWombat
-186. Orion																											ArcadeZero
-187. Rising Phoenix																							ArcadeZero
-188. Rolling Thunder																						ArcadeZero
-189. Scarlet Eclipse																						ArcadeZero
-190. Silver Eclipse																							ArcadeZero
-191. Snowdrop																										Sollace
-192. Stardust																										ArcadeZero
-193. Trigger Pixel																							ArcadeZero
-181. Wildfire																										AlphaSpaceWombat
-188. Button Mash (Jan)																					KarinaAE123
+3.   Ambrosia                                          AlphaSpaceWombat
+--.  Blockwork                                         ???
+23.  Brolly                                            AlphaSpaceWombat
+183. Echo                                              Sollace
+184. Little Pip                                        Sollace
+184. Nyx                                               Sollace
+185. OhPonyBoy                                         Sollace
+108. Orange Box                                        AlphaSpaceWombat
+186. Orion                                             ArcadeZero
+187. Rising Phoenix                                    ArcadeZero
+188. Rolling Thunder                                   ArcadeZero
+189. Scarlet Eclipse                                   ArcadeZero
+190. Silver Eclipse                                    ArcadeZero
+191. Snowdrop                                          Sollace
+192. Stardust                                          ArcadeZero
+193. Trigger Pixel                                     ArcadeZero
+181. Wildfire                                          AlphaSpaceWombat
+188. Button Mash (Jan)                                 KarinaAE123
 
 [================================================================================================]
 
