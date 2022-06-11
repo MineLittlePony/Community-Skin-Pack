@@ -112,8 +112,8 @@ assets / minelittlepony /
 2.  Stephanoodle            -         27
 3.  Parchment_Pen           -         21
 4.  Harlequinnqueen         -         13
-5.  Harlequinqueen          -         10
-6.  Sollace                 -         10
+5.  Sollace                 -         11
+6.  Harlequinqueen          -         10
 7.  AlphaZero               -          7
 8.  KarinaAE123             -          7
 9.  dann494                 -          4
@@ -289,6 +289,7 @@ assets / minelittlepony /
 170. Princess Twilight Sparkle                         Stephanoodle
 173. Twilight Sparkle                                  Stephanoodle
 185. Starlight Glimmer                                 KarinaAE123
+195. King Thorax                                       Sollace
 
                           Alternative Outfits
 -----    Pony    --------------------------------------    Artist    ---------
