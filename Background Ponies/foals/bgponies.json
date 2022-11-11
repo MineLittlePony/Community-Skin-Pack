@@ -1,9 +1,10 @@
 {
     "override": false,
-    "imports": [],
+    "imports": [ "cutie_mark_crusaders" ],
     "ponies": [
         "apple_bloom",
 				"babs_seed",
+        "cozy_glow",
 				"diamond_tiara",
 				"dinky_doo",
 				"featherweight",
