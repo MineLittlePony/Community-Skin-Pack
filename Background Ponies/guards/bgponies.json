@@ -1,0 +1,12 @@
+{
+    "override": false,
+    "imports": [],
+    "ponies": [
+        "night_guard_bat",
+				"night_guard_pegasus",
+				"night_guard_unicorn",
+				"royal_earth_pony_guard",
+				"royal_pegasus_guard",
+				"royal_unicorn_guard"
+    ]
+}
