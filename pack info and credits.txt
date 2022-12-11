@@ -7,7 +7,7 @@
 
                                    COMMUNITY SKIN PACK
 
-                                      Version 1.8
+                                      Version 1.9
 
 [================================================================================================]
 
@@ -291,6 +291,10 @@ assets / minelittlepony /
 185. Starlight Glimmer                                 KarinaAE123
 195. King Thorax                                       Sollace
 
+                            Main Cast (G5)
+-----    Pony    --------------------------------------    Artist    ---------
+196. Sunny Starscout                                   Sollace
+
                           Alternative Outfits
 -----    Pony    --------------------------------------    Artist    ---------
 10.  Applejack (gala dress)                            AlphaSpaceWombat
@@ -325,6 +329,10 @@ assets / minelittlepony /
 172. Twilight Sparkle (princess coronation)            Stephanoodle
 179. Wild Flower (WA outift)                           Parchment_Pen
 194. Cozy Glow                                         Sollace
+
+                         Alternative Outfits (G5)
+-----    Pony    --------------------------------------    Artist    ---------
+197. Sunny Starscout (Alicorn)                         Sollace
 
                                Villains
 -----    Pony    --------------------------------------    Artist    ---------
