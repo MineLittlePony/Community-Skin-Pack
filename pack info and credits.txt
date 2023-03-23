@@ -51,6 +51,8 @@ Minecraft             - Minecraft mobs and entities (humanoid) created specifica
 Alternative Outfits   - Any additional costumes and get-ups of skins included in the other
                         categories. The 'Other' skins
 
+Zompony               - Zombifeid versions of every skin for use in resource packs
+
 Each category on its own is designed to work as a drop-in replacement for the background ponies
 already included with the mod. They have their own bgponies.json listing all of the ponies
 included.
@@ -108,21 +110,22 @@ assets / minelittlepony /
           GLORY TO THE CONTRIBUTORS
 
 -----   Artist  -------------  Ponies Contributed  -----
-1.  AlphaSpaceWombat        -         99
-2.  Stephanoodle            -         27
-3.  Parchment_Pen           -         21
-4.  Harlequinnqueen         -         13
-5.  Sollace                 -         11
-6.  Harlequinqueen          -         10
-7.  AlphaZero               -          7
-8.  KarinaAE123             -          7
-9.  dann494                 -          4
-10. Silverwhisker           -          4
-11. P47HF1ND3R              -          3
-12. Sunny                   -          2
-13. Snydertime86            -          1
-14. SF Legend               -          1
-15. iKudoShinichiHoof       -          1
+1.  Silk Rose               -        239
+2.  AlphaSpaceWombat        -         99
+3.  Stephanoodle            -         27
+4.  Parchment_Pen           -         21
+5.  Harlequinnqueen         -         13
+6.  Sollace                 -         11
+7.  Harlequinqueen          -         10
+8.  AlphaZero               -          7
+9.  KarinaAE123             -          7
+10. dann494                 -          4
+11. Silverwhisker           -          4
+12. P47HF1ND3R              -          3
+13. Sunny                   -          2
+14. Snydertime86            -          1
+15. SF Legend               -          1
+16. iKudoShinichiHoof       -          1
 
 00. [unclaimed]             -          5
 
@@ -204,7 +207,7 @@ assets / minelittlepony /
 91.  Mayor mare                                        AlphaSpaceWombat
 92.  Merry May                                         Stephanoodle
 93.  Millie                                            Stephanoodle
-94.  Mjîlna                                            Stephanoodle
+94.  Mjï¿½lna                                            Stephanoodle
 95.  Morton Saltworthy                                 AlphaSpaceWombat
 96.  Carrot Cake                                       AlphaSpaceWombat
 149. Mr Smarty Pants                                   iKudoShinichiHoof
@@ -302,8 +305,8 @@ assets / minelittlepony /
 12.  Applejack Winter Wrap up                          AlphaSpaceWombat
 5.   Apple Bloom (CMC Rock outfit)                     P47HF1ND3R
 --   Cranky Doodle Donkey (bald)                       ???
---   Cranky Doodle Donkey (dazzling toupé)             ???
-38b. Cranky Doodle Donkey (magnet toupé)               Sollace
+--   Cranky Doodle Donkey (dazzling toupï¿½)             ???
+38b. Cranky Doodle Donkey (magnet toupï¿½)               Sollace
 36.  Royal Guard Commanders                            AlphaSpaceWombat
 43.  Derpy Hooves Winter wrap up                       AlphaSpaceWombat
 57.  Fleetfoot (Wonderbolt outfit)                     AlphaSpaceWombat
@@ -373,6 +376,37 @@ assets / minelittlepony /
 193. Trigger Pixel                                     ArcadeZero
 181. Wildfire                                          AlphaSpaceWombat
 188. Button Mash (Jan)                                 KarinaAE123
+
+                               Zompony
+-----    Pony    --------------------------------------    Artist    ---------
+240-379. All Zomponies                                 Silk Rose
+
+All Zompony skins are made by Silk Rose using a generator script that can  be found here:
+https://github.com/Love-and-Tolerance/pack-dev-tools/tree/mane/tools/villager-infector
+
+All zompony skins are Licensed under the MIT License, which is as follows:
+MIT License
+
+Copyright (c) 2022 Love & Tolerance
+
+Permission is hereby granted, free of charge, to any person obtaining a copy
+of this software and associated documentation files (the "Software"), to deal
+in the Software without restriction, including without limitation the rights
+to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
+copies of the Software, and to permit persons to whom the Software is
+furnished to do so, subject to the following conditions:
+
+The above copyright notice and this permission notice shall be included in all
+copies or substantial portions of the Software.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
+OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
+SOFTWARE.
+
 
 [================================================================================================]
 
